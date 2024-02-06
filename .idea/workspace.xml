@@ -17,6 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -36,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "라이브러리",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -67,7 +74,7 @@
       <workItem from="1706089147779" duration="4402000" />
       <workItem from="1707240319222" duration="5290000" />
       <workItem from="1707246056847" duration="5000" />
-      <workItem from="1707248105530" duration="463000" />
+      <workItem from="1707248105530" duration="836000" />
     </task>
     <servers />
   </component>
